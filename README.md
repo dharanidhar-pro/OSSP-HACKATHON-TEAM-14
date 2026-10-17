@@ -307,4 +307,4 @@ Through its diagnostic interface, analysis workflow, and reporting capabilities,
 
 **MemScope — Track allocations. Detect leaks. Understand memory.**
 
-*Developed by Team 14 for the OSSP Hackathon, 17 October 2026.*
+
