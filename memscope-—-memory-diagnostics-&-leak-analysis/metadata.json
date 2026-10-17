@@ -1,0 +1,6 @@
+{
+  "name": "MemScope — Memory Diagnostics & Leak Analysis",
+  "description": "Developer observability, heap allocation tracing, and memory leak detection platform for systems engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
